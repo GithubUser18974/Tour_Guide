@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Cairo Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="introduction_to_the_cairo_app">Cairo is the capital city of Egypt. The citys metropolitan area is the largest in the Middle East and the Arab world, and the 15th-largest in the world, and is associated with ancient Egypt as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area
+    On the Nile river, Cairo is famous for its own history, preserved in the fabulous medieval Islamic city and Coptic sites in Old Cairo. The Egyptian Museum in the centre of town is a must see, with its countless Acient Egyptian artefacts, as is shopping at the Khan al-Khalili bazaar. No trip to Cairo would be complete, for example, without a visit to the Giza Pyramids, and to the nearby Saqqara Pyramid Complex, where visitors will see Egypts first step pyramid built by the architect Imhotep for the third dynasty Pharaoh, Djoser.Though firmly attached to the past, Cairo is also home to a vibrant modern society. The Midan Tahrir area situated in downtown Cairo area, built in the 19th century under the rule of Khedive Ismail, has strived to be a "Paris on the Nile". There also are a number of more modern suburbs including Ma'adi and Heliopolis, while Zamalek is a quiet area on Gezira Island, with upmarket shopping. Cairo is best in the fall or spring, when the weather isn't so hot. A felucca ride on the Nile is a good way to escape from the busy city, as is a visit to Al-Azhar Park
+    </string>
+    <string name="head_of_the_introduction_activity">Hello To Cairo Guide App</string>
+    <string name="cairo_at_nile_plaza_txt">
+        About Four Seasons Service Culture Four Seasons History Corporate Bios Four Seasons Corporate Directories At Four Seasons we believe in recognizing a familiar face, welcoming a new one and treating every one we meet the way we would want to be treated ourselves. Whether you work with us, stay with us, live with us, discover with us, we believe our purpose is to create impressions that will stay with you for a lifetime. It comes from our belief that life is richer when we truly connect to the people and the world around us. Service Culture Much admired, and not easily replicated, the Four Seasons culture is firmly grounded in our people – in who we are, what we believe and how we behave. Our goals, beliefs and principles are described in the Four Seasons corporate mission statement.
+    </string>
+    <string name="sofitel_cairo_nile_gezirah_txt">
+        Each Sofitel is a unique blend of the French art de vivre and local refinement. Under an Egyptian sun, you arrive at a gleaming golden tower on the banks of the Nile. Five-star luxury awaits. Your journey has brought you to Sofitel Cairo Nile El Gezirah. Its only a bridge away, but busy Cairo feels distant from the tranquility of El Gezirah Island. Entering a vast lobby with a dramatic spiral staircase, you immerse yourself in a world of grandeur that blends Arabic, Pharaonic and French Art Deco design.As the sun sets over this ancient land, the soft sounds of a flute catch your ear. Curiosity piqued, you venture out to find a procession in traditional dress bearing lanterns. Candles are lit. The ritual bids farewell to day and welcomes night. After an inspiring day of exploring lands where pharaohs walked, you seek respite. SoSpas Queen Cleopatra beauty ritual beckons. You ease into a soothing milk-and-almond bath strewn with rose petals, followed by an exfoliating scrub and relaxing massage
+    </string>
+    <string name="cairo_marriott_hotel_and_omar_khayyam_casino_txt">
+Bask in the elegance of Cairo Marriott Hotel and Omar Khayyam Casino. Guests are treated to lush gardens, a historic palatial property and 5-star accommodations. Relax in well-appointed rooms and suites that benefit from plush bedding, desks, complimentary Wi-Fi, mini-bars and 24-hour room service. Many of the rooms have balconies with views of the gardens, the city or the Nile. Upgrade to an Executive Level room to access the exclusive lounge and perks like free breakfast, afternoon tea and dessert. Our luxury suites feature generous layouts, kitchenettes and fireplaces. The property invites guests to use our gym, updated pool or brand new spa. Delicious dining options abound and include restaurants set amidst our verdant gardens. Those planning a wedding or conference in the Zamalek District will appreciate our hotels versatile and unique event venues. You can also enjoy an evening in our casino, or explore the nearby Cairo Tower, Cairo Opera House, Egyptian Museum, the Pyramids and the Sphinx
+    </string>
+    <string name="kempinski_nile__hotel_garden_city_cairo_txt">
+        The Kempinski name is proudly borne by a growing collection of distinguished properties around the world. As Europe’s oldest luxury hotel group, we are committed to providing our guests with memorable journeys inspired by exquisite European flair. We believe life should be lived with style.
+
+Each year, an increasing number of guests come to appreciate these qualities, as Kempinski adds new, exciting destinations in Europe, the Middle East, Africa, Asia and The Americas. While this growth reflects the strength and success of the Kempinski brand, the collection will remain a limited one, where exclusivity can be nurtured and individuality can flourish.
+
+We believe that our prestigious, European heritage puts Kempinski in a unique position to satisfy the expectations of the stylish and discerning traveller. It’s not just to simply provide a hotel bed and a meal, at Kempinski it’s all about bringing a story to life
+
+    </string>
+    <string name="egyptain_museum">
+        The Egyptian Museum of Antiquities is considerd to be one of the oldest, most famous, and largest museums in the world.  The Egyptian Museum of Antiquties has a long history that dates back to the year 1825 when Mohamed Ali Pasha, the ruler of Egypt at the time, issued a decree to establish a museum for the antiquities of Egypt and the first location of the museum was in front of the Azabakeya Lake, between the squares of Opera and Atabba today.The Ruler of Egypt at this period didn’t really realize the real value of the antiquities and ancient historical finds of Egypt and they started giving them to the European tourists who visited Egypt at this period of time in the middle of the 19th century. At the end, the rest of the antiquities that were kept near the Azabakeya Lake were taken to an abandoned room in the citadel. When the Austrian Archduke, Maximilian, visited the citadel and was fond of the belongings of this room. 
+    </string>
+    <string name="coptic_museum">
+        I am very glad to see the Coptic Museum entering a new era. The Museum itself has been under renovation for over five years. The historic buildings and the priceless artifacts housed in them have been painstakingly conserved, and the displays have been beautifully renewed.
+
+As part of the rebirth of the Coptic Museum in the 21st century, it is only befitting to have a world-class home on the internet. This multimedia site offers a chance not only for leading scholars to share their expertise on Egypt’s Coptic heritage, but also an opportunity for members of the Coptic community to express their views and to contribute to the ongoing development of this vital part of Egypt’s culture and society.
+
+I am proud of the many people who have worked so hard to make the Coptic Museum what it is today, and I am delighted to say that I feel this museum has a very bright future in the digital age. I hope that you enjoy this website.
+
+    </string>
+    <string name="museum_of_islamic_art">
+The Museum of Islamic Art in Cairo is considered to be one of the largest and oldest museums in the world. The museum hosts more than 104 thousand displays reflecting the greatness of the Islamic civilization in Egypt and the whole Islamic world and how flourishing it has been for a very long period of time.Many of the displays of the Museum of Islamic Art were gathered from Arab and non Arab nations and from individuals that have sold their belongings or donated them to the museum. The museum hosts many exhibits that date back to beginning of the Islamic era till the period of the family of Mohamed Ali.
+
+the Museum of Islamic Art has many different types of displays including metal and wooden works, carpets, rare copies of the Quran, coins, Minbars, and many other exhibits that amaze the visitors of the museum coming from all over the world.
+    </string>
+    <string name="gayer_anderson_museum">
+      Beit El Kertlia or the Gayer Anderson Museum in Cairo was built in 1631 by one of ‎the wealthy men who used to live in the Egyptian capital and his name was ‎Mohamed Ibn Hah Salem Ibn Gelmam. Now the house is considered to be one of the ‎most marvelous historical structures in Egypt.‎These historical houses like Beit El Sehemy and Beit El Kertlia stand as examples of ‎how magnificent and great the Islamic architecture was in Egypt reflecting one of ‎the most important sections of architecture; the construction of houses. ‎
+
+A number of rich families lived in the house, one after another, until a lady from the ‎island of Crete bought the house and lived in it and this was why the house was ‎named; Beit El Kertlia or the House of the people from Crete. ‎
+
+Beit El Kertlia is located attached to the Eastern section of the famous Ahmed Ibn ‎Tulun Mosque in Islamic Cairo. The museum consists of two historical houses ‎facing each others and they were both constructed in the Ottoman period.‎
+  </string>
+    <string name="gezirah_police_station">
+    Address: CAIRO, ZAMALEK
+    Phone: 02 27351719
+</string>
+    <string name="shoubra_police_department">
+        Address: CAIRO, SHOUBRA
+        4.3 Google reviews
+    </string>
+    <string name="hadahek_shobra_police_station">
+        Address: Asaad, As Sahel, Cairo Governorate
+        1.3 Google reviews
+    </string>
+    <string name="amireya_police_station">
+        Address: Masaken Al Amireya Sq., Al Amireyah Ash Shamaleyah, AZ Zaytoun, Cairo Governorate
+        2.0 Google reviews
+    </string>
+    <string name="esplanade_cafe_restaurant">
+        Phone: +20 2 24800100
+        The main restaurant where you have a buffet breakfast has a huge variety of food and beverages, which is compatible with other 5 stars hotel in the country, however, what spoiled the experience is the unfriendly almost rude waitresses, impatient waiters, waiters and staff fight together in front of the guests in the middle of the restaurants, and the girls who stand to greet the guests at the entrance would make comments about the guests and smile even before the guests pass them!!!
+I must say that one of the restaurant managers took my comments with a respectful attitude and tried to give me extra attention, but when he was not there all was the same. I was displeased with the environment that I could eat hardly anything!!!
+    </string>
+    <string name="fayruz_lebanese_restaurant">
+        Phone: +20 2 24800009
+         Cuisine
+Lebanese, Mediterranean, Middle Eastern, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+Meals
+Lunch, Dinner, Brunch, Late Night
+Restaurant features
+Valet Parking, Reservations, Outdoor Seating, Private Dining, Seating, Waitstaff, Parking Available, Validated Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts American Express, Accepts Mastercard, Accepts Visa, Free Wifi
+Good for
+Large groups, Romantic, Families with children, Business meetings, Bar scene, Special occasions, Local cuisine, Scenic view, Kids
+Open Hours
+Sunday
+1:00 PM - 1:00 AM
+Monday
+1:00 PM - 1:00 AM
+Tuesday
+1:00 PM - 1:00 AM
+Wednesday
+1:00 PM - 1:00 AM
+Thursday
+1:00 PM - 1:00 AM
+Friday
+1:00 PM - 1:00 AM
+Saturday
+1:00 PM - 1:00 AM
+Location and Contact Information
+
+    Address: InterContinental Cairo Citystars | Omar Ibn El Khattab St., Heliopolis, Cairo 11511, Egypt
+    Location: Africa  >  Egypt  >  Cairo Governorate  >  Cairo
+    Phone Number: +20 2 24800009
+    E-mail
+
+Description
+Guests familiar with the flavours and spices of Lebanese cuisine will find them blended to perfection at Fayruz. for newcomers, let the famously friendly staff introduce you over lunch on the outdoor terrace or an exotic dinner show with live belly dancing. The interior is delightfully authentic and evocative.
+
+    </string>
+    <string name="indira_indian_restaurant">
+         Cuisine
+Indian, Asian, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+Meals
+Lunch, Dinner, Late Night
+Restaurant features
+Delivery, Takeout, Reservations, Private Dining, Seating, Waitstaff, Parking Available, Validated Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar
+Good for
+Business meetings, Kids, Families with children, Special occasions, Romantic, Large groups
+Open Hours
+Sunday
+1:00 PM - 12:00 AM
+Monday
+1:00 PM - 12:00 AM
+Tuesday
+1:00 PM - 12:00 AM
+Wednesday
+1:00 PM - 12:00 AM
+Thursday
+1:00 PM - 12:00 AM
+Friday
+1:00 PM - 12:00 AM
+Saturday
+1:00 PM - 12:00 AM
+Location and Contact Information
+
+    Address: Holiday Inn Cairo Citystars | Ali Rashed Street, Cairo 11511, Egypt
+    Location: Africa  >  Egypt  >  Cairo Governorate  >  Cairo
+    Phone Number: +20-24803007
+    E-mail
+
+Is This Your TripAdvisor Listing?
+Own or manage this property? Claim your listing for free to respond to reviews, update your profile and much more. Claim Your Listing 
+    </string>
+    <string name="birdcage">
+    average price 530EGP - EGP 1,766
+    Cuisine
+    Asian, Thai, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+    Meals
+    Lunch, Dinner
+    Restaurant features
+    Waitstaff, Valet Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Free Wifi, Reservations, Seating, Validated Parking, Accepts Credit Cards
+    Good for
+    Large groups, Special occasions, Business meetings, Families with children, Romantic
+    Open Hours
+    Sunday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Monday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Tuesday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Wednesday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Thursday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Friday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Saturday
+    12:30 PM - 4:00 PM
+    7:00 PM - 12:00 AM
+    Location and Contact Information
+
+    Address: Corniche El Nil | Semiramis InterContinental Cairo, Cairo 11511, Egypt
+    Location: Africa  >  Egypt  >  Cairo Governorate  >  Cairo
+    Phone Number: +20 2 27988000
+    E-mail
+
+    Description
+    Everything about the Birdcage is pure Thailand, from the exotic water feature at the door to the authentic etiquette displayed throughout your meal. What will really transport you across the continent; however, are the sizzling sounds and enticing aromas from the open kitchen, where Chef Narong creates Thai specialties such as Garlic Pepper Shrimp, Cashew Chicken and Crispy Rice with Peanut Sauce.Location: In the Semiramis InterContinental Hotel - 2nd level Services: Lunch | Dinner
+</string>
+    <string name="hotel_name_nile_plaza">Nile Plaza</string>
+    <string name="hotel_name_marriot">Marriot Hotel</string>
+    <string name="hotel_name_kempinksi">Kempinksi</string>
+    <string name="hotel_name_sofitel_cairo_nile">Sofitel Cairo Nile</string>
+    <string name="museum_name_egyptian">Egyptian Museum</string>
+    <string name="museum_name_coptic">Coptic Museum</string>
+    <string name="museum_name_islamic_art">Islamic Art Museum</string>
+    <string name="museum_name_gayer">Gayer Museum</string>
+    <string name="police_name_amirya">Amirya Police Station</string>
+    <string name="police_name_gezira">Gezira police Statioin</string>
+    <string name="police_name_hadahek">Hadahek Shoubra Police</string>
+    <string name="police_name_shoubra">Shoubra police Station</string>
+    <string name="restaurant_name_esplanada">Esplanade Restaurant</string>
+    <string name="restaurant_name_fayruz">Fayruz Lebanese Restaurant</string>
+    <string name="restaurant_name_indra">Indra Indian Restaurant</string>
+    <string name="restaurant_name_birdcage">Birdcage Restaurant</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hotel">Hotel</string>
+    <string name="police">Police Station</string>
+    <string name="museum">Museum</string>
+    <string name="home">Home</string>
+
+</resources>
